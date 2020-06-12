@@ -10,7 +10,7 @@ body,
 
 .main-container {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418)),
-    url('https://source.unsplash.com/1600x900/?weather,weather');
+    url('./images/bg.png');
   background-size: cover;
   background-position: center;
 }
@@ -23,7 +23,19 @@ body,
   flex-direction: column;
 }
 
+.search-field {
+  display: flex;
+}
+
+.search-icon {
+  color: white;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
 .search {
+  width: 300px;
   outline: none;
   padding: 20px 9%;
   border-radius: 20px;
