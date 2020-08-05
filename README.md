@@ -6,13 +6,13 @@
 
 ## Introduction
 
-This is a react app for Weather report app using api.
+* This is a react app for Weather report app using api.
 
-This project is ready to server on PWA store
+## This project is ready to server on PWA store
 
-I made this app with a help of a youtube vide with some own customization
+* I made this app with a help of a youtube vide with some own customization
 
-I'm using open-weather api
+* I'm using open-weather api
 
 Setup:
 
